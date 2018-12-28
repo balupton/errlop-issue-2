@@ -1,0 +1,24 @@
+{
+  "name": "testtest",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "node ./index.js"
+  },
+  "keywords": [],
+  "author": "Benjamin Lupton <b@lupton.cc> (https://balupton.com)",
+  "license": "MIT",
+  "dependencies": {
+    "errlop": "^1.1.0"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/balupton/errlop-issue-2.git"
+  },
+  "bugs": {
+    "url": "https://github.com/balupton/errlop-issue-2/issues"
+  },
+  "homepage": "https://github.com/balupton/errlop-issue-2#readme",
+  "description": ""
+}
